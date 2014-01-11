@@ -8,7 +8,7 @@ Reporting Issues
 
 If you encounter a bug while using ServerGuard, first search the [issue list](https://github.com/alexgrist/ServerGuard/issues) to see if it has already been reported. Include closed issues in your search.
 
-If it has not been reported, create a new issue with at least the following information:
+If it has not been reported, [create a new issue](https://github.com/alexgrist/ServerGuard/issues/new) with at least the following information:
 
 - a short, descriptive title.
 - which gamemode you're reporting the bug on (eg. Sandbox).
