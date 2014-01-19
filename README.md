@@ -6,7 +6,7 @@ Please use this repository to report bugs or feature requests for ServerGuard.
 User Guide
 ----------
 
-If you are a first time user, you can [view our user guide](https://docs.google.com/document/d/19oa-j8qWqYq25GsR-yfKw9T6yZYcSkfmF0oUrgeDsIc/) for information on how you can get started with ServerGuard.
+If you are a first time user, you can [view our user guide](https://github.com/alexgrist/ServerGuard/wiki/User-Guide) for information on how you can get started with ServerGuard.
 
 Reporting Issues
 ----------------
