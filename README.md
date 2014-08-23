@@ -22,6 +22,16 @@ If it has not been reported, [create a new issue](https://github.com/alexgrist/S
 
 Please place logs either in a code block, or if long, inside a [gist](https://gist.github.com).
 
+Feature Requests
+----------------
+
+If you wish to request that something be added to ServerGuard, first search the [issue list](https://github.com/alexgrist/ServerGuard/issues) to see if it has already been requested.
+
+If it has not already been requested, [create a new issue](https://github.com/alexgrist/ServerGuard/issues/new) with [SUGGESTION] or [REQUEST] in the title.
+
+Ensure that you include a descriptive title with a detailed description of the feature request.
+Please [create a seperate issue](https://github.com/alexgrist/ServerGuard/issues/new) for each feature request, rather than creating a list.
+
 Thank You
 -------------------
 
