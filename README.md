@@ -32,6 +32,13 @@ If it has not already been requested, [create a new issue](https://github.com/al
 Ensure that you include a descriptive title with a detailed description of the feature request.
 Please [create a seperate issue](https://github.com/alexgrist/ServerGuard/issues/new) for each feature request, rather than creating a list.
 
+Team
+-------------------
+
+[@gustafakerman](https://github.com/gustafakerman) - Project Manager.  
+[@alexgrist](https://github.com/alexgrist) - Project Manager and Developer.  
+[@impulsh](https://github.com/impulsh) - Developer.
+
 Thank You
 -------------------
 
