@@ -32,6 +32,11 @@ If it has not already been requested, [create a new issue](https://github.com/al
 Ensure that you include a descriptive title with a detailed description of the feature request.
 Please [create a seperate issue](https://github.com/alexgrist/ServerGuard/issues/new) for each feature request, rather than creating a list.
 
+Progress Tracking
+-----------------
+
+Want to know what's going on in the next release of ServerGuard? Then feel free to check out our [Trello board](https://trello.com/b/aaDkdWdy/serverguard)! Here you can view things we're currently working on, have done for the next version, or are planning to do.
+
 Team
 -------------------
 
