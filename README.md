@@ -37,6 +37,11 @@ Progress Tracking
 
 Want to know what's going on in the next release of ServerGuard? Then feel free to check out our [Trello board](https://trello.com/b/aaDkdWdy/serverguard)! Here you can view things we're currently working on, have done for the next version, or are planning to do.
 
+Plugins
+-------
+
+If you're looking to create a plugin and want to have something to start off with, check out the example folder for a plugin base. It contains a fully working plugin with detailed examples on how to add a category, command, hook, etc. to your plugin.
+
 Team
 -------------------
 
