@@ -42,5 +42,12 @@ end;
 function category:Update()
 end;
 
+--[[
+	Called while the ServerGuard menu panel is open.
+	This function doesn't need to be defined if you don't need to use it.
+]]
+function category:Think()
+end;
+
 -- Register the category through the plugin so it can be enabled/disabled when the plugin is.
 plugin:AddCategory(category);
