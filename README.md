@@ -46,8 +46,6 @@ Team
 -------------------
 
 [@gustafakerman](https://github.com/gustafakerman) - Project Manager.  
-[@alexgrist](https://github.com/alexgrist) - Project Manager and Developer.  
-[@impulsh](https://github.com/impulsh) - Developer.  
 [@somesortofduck](https://github.com/somesortofduck) - Developer.
 
 Thank You
