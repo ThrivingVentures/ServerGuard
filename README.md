@@ -46,7 +46,7 @@ Team
 -------------------
 
 [@gustafakerman](https://github.com/gustafakerman) - Project Manager.  
-[@somesortofduck](https://github.com/somesortofduck) - Developer.
+[@somesortofduck](https://github.com/somesortofduck) - Developer.  
 [@meepdarknessmeep](https://github.com/meepdarknessmeep) - Developer.
 
 Thank You
