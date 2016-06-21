@@ -3,6 +3,7 @@ Before submitting checklist
 - Have you checked the issue list first?
 - Have you given a short descriptive title?
 - **Have you only put one item in this issue?**
+- Have you removed all [TAGS] from the title?
 
 Errors
 ------
