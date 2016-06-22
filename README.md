@@ -35,7 +35,7 @@ Please [create a seperate issue](https://github.com/ThrivingVentures/ServerGuard
 Progress Tracking
 -----------------
 
-Want to know what's going on in the next release of ServerGuard? Then feel free to check out our [Trello board](https://trello.com/b/aaDkdWdy/serverguard)! Here you can view things we're currently working on, have done for the next version, or are planning to do.
+Want to know what's going on in the next release of ServerGuard? Then feel free to check out our [Trello board](https://trello.com/b/F0vWlYou/serverguard)! Here you can view things we're currently working on, have done for the next version, or are planning to do.
 
 Plugins
 -------
@@ -45,9 +45,9 @@ If you're looking to create a plugin and want to have something to start off wit
 Team
 -------------------
 
-[@gustafakerman](https://github.com/gustafakerman) - Project Manager.  
-[@somesortofduck](https://github.com/somesortofduck) - Developer.  
-[@meepdarknessmeep](https://github.com/meepdarknessmeep) - Developer.
+[@gustafakerman](https://github.com/gustafakerman) - Project Manager  
+[@somesortofduck](https://github.com/somesortofduck) - Developer  
+[@meepdarknessmeep](https://github.com/meepdarknessmeep) - Developer
 
 Thank You
 -------------------
